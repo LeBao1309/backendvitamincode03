@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello VitaminCode03");
         System.out.println("Hello admin");
+        System.out.println("Hello admin02");
 
 
     }
